@@ -24,7 +24,11 @@
 
 ## Demo Video
 
+Here is the demo Video: [Link](https://drive.google.com/file/d/1c1Kyfcm4XzVsBWn76F2uTPDjb3CXXCzc/view?usp=drive_link)
 
+### Deployed (Live) Link
+
+Its [Here](https://s-api-ce5e.onrender.com)
 
 ## Technologies Used
 
